@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Bonding Vine"
+date:   2016-08-15
+source: SproutingChaos
+tags: [bard, cleric, druid, sorcerer, warlock, wizard, cantrip, conjuration]
+---
+
+**Conjuration cantrip**
+
+**Casting Time:** 1 bonus action
+**Range:** 20 feet
+**Components:** V, S, M (a small twig)
+**Duration:** Concentration, up to 1 minute.
+
+Choose one creature you can see within range. That creature must
+succeed on a Dexterity Saving throw or become connected to you with
+a magical vine. A creature that you are connected with must make a
+Strength saving throw whenever they attempt to move to a point more
+than 20 feet away from you. On a failed save, their speed is reduced to
+zero until the start of their next turn and they are knocked prone. On a
+successful save, the vine snaps, and they are freed.
